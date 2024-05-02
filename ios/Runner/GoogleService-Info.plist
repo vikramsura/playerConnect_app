@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352060403244-5hes1mn9mbpvm7nhn67lgvo80gdeilm3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352060403244-5hes1mn9mbpvm7nhn67lgvo80gdeilm3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352060403244-6bg3loqrsecjih8fjm5am93hchq8bvve.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsknfc8ExDOVd01v2qMlXRU-gPHLCQMrs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352060403244</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ios.playerConnect</string>
+	<key>PROJECT_ID</key>
+	<string>coach-connecter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coach-connecter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352060403244:ios:0ef7ef91da3e18a412ab89</string>
+</dict>
+</plist>
